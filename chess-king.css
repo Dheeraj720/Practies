@@ -1,0 +1,28 @@
+.box{
+    width: 800px;
+    height: 800px;
+    background: yellow;
+    border: 30px solid grey;    
+    margin: auto;
+}
+.row{
+    height: 100px;
+    width: 100%;
+}
+.white{
+    background: white;
+}
+.black{
+    background: black;
+    color: white;
+}
+.black, .white{
+    width: 100px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    font-size: 70px;
+}
+body{
+    background: skyblue;
+}

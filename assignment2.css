@@ -1,0 +1,21 @@
+.chessboard{
+    height: 50rem;
+    width: 50rem;
+    border: 2px solid black;
+    display: flex;
+}
+.box_black{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background: pink;
+}
+.box_white{
+    width: 100px;
+    height: 100px;
+    background: black                                                               ;
+    float: left;
+}
+.row2{
+    margin-top: px;
+}
